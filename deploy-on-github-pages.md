@@ -15,7 +15,7 @@
 ### Step 2: Domain Name System
 
 1. Login to your domain name registrator, such as [NameCheap](https://www.namecheap.com), [GoDaddy](http://godaddy.com), [IWantMyName](http://iwantmyname.com), etc.
-2. Select the domain name that you want to use with your GitHub Pages and choose to edit its DNS settings.
+2. Select the domain name (assuming you've bought one) that you want to use with your GitHub Pages and choose to edit its DNS settings.
 3. Add `A` record:
   + Hostname: `@`
   + Type: `A`
