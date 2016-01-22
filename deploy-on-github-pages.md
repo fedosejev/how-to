@@ -26,7 +26,6 @@
   + Type: `A`
   + Value: `192.30.252.154`
   + TTL: `900`
-5. Test.
 
 ### Step 3: Test!
 
