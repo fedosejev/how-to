@@ -12,7 +12,7 @@
 3. Create `.nojekyll` file: `touch .nojekyll`
 4. Commit and push: `git add . && git commit -m "Add custom domain" && git push`
 
-### Step 2: Domain Name System
+### Step 2: Domain Name System (DNS)
 
 1. Login to your domain name registrator, such as [NameCheap](https://www.namecheap.com), [GoDaddy](http://godaddy.com), [IWantMyName](http://iwantmyname.com), etc.
 2. Select the domain name (assuming you've bought one) that you want to use with your GitHub Pages and choose to edit its DNS settings.
