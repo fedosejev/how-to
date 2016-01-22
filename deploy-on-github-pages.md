@@ -26,6 +26,12 @@
   + Type: `A`
   + Value: `192.30.252.154`
   + TTL: `900`
+5. Test.
+
+### Step 3: Test!
+
+1. Go to your GitHub repository's settings and make sure that it says: `Your site is published at http://yourdomainname.com.`
+2. Open `http://yourdomainname.com` in a web browser - check that everything loads!
 
 
 
