@@ -3,7 +3,7 @@
 ### Step 0: GitHub
 1. Create a new GitHub repository and clone it.
 2. Add all your source files, including `index.html`.
-3. Push.
+3. Commit and push: `git add . && git commit -m "Add source files" && git push`
 
 ### Step 1: GitHub Pages
 
